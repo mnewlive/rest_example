@@ -33,4 +33,4 @@ There is a Client entity with saving data to runtime HashMap<Integer, Client>
 1. Change the request type to "GET" and send it to the server
 1. Checking status with your Body
 
-![Postman example](https://ibb.co/MPFYJ3C)
+![Postman example](https://i.imgur.com/Kd4eyWT.png)
